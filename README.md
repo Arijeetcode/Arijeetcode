@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://scontent.fccu20-1.fna.fbcdn.net/v/t1.6435-9/93657892_654710668437030_2873224673099776000_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=1SGKxyf-AJMAX-H51_H&tn=CSzcrlilKTfu9KIM&_nc_ht=scontent.fccu20-1.fna&oh=1fef2fe6229ae369ac9e1a104102df00&oe=61B92B73" width=30% height=30%>
+
 **Arijeet Dasgupta** 
 
 Here are some ideas to get you started:
